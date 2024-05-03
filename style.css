@@ -1,0 +1,55 @@
+/* .main {
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    margin-bottom: 10px;
+    /* position: absolute; 
+    position: relative;
+    bottom: 12px;
+}
+
+.child {
+    background-color: rgb(240, 22, 22);
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    top: 58px;
+    left: 25px;
+} */
+
+/* 
+* {
+    box-sizing: border-box;
+  }
+  
+  .box {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: red;
+    color: white;
+  }
+  
+  #two {
+    position: relative;
+    top: 20px;
+    left: 20px;
+    background: blue;
+  }
+   */
+
+   p {
+    display: block;
+   }
+
+   div {
+    display: inline;
+   }
+
+   .myBtn{
+    padding: .2rem;
+    background-color: bisque;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+   }
